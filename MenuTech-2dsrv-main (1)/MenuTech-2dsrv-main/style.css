@@ -1,0 +1,9 @@
+header{
+        background-color: black;
+}
+header ul li a{
+        color:white
+}
+header ul li{ 
+        display: inline-block
+}
